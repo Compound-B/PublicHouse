@@ -2342,7 +2342,7 @@ Version:  1.0
 }
 /* Home 1 */
  .vincent_home1 .vincent_advantages1{
-     margin-top: 3px;
+     margin-top: 0;
 }
  .vincent_prod_list_price span{
      margin-right: 3px;
@@ -2408,7 +2408,7 @@ Version:  1.0
 }
  .vincent_legend_block1 h1{
      margin-bottom: 23px;
-     margin-top: 20px;
+     margin-top: 13px;
 }
  .vincent_legend_block1 h6{
      margin-bottom: 40px;

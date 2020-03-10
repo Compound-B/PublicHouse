@@ -123,6 +123,7 @@ Version:  1.0
  .vincent_container {
      margin: 0 auto;
      padding: 0 15px;
+     background-color: #121618;
 }
  .vincent_inner, .vincent_inner_text{
      position: relative;

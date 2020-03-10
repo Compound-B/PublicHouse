@@ -2392,6 +2392,8 @@ Version:  1.0
      height: 100%;
 }
  .vincent_legend{
+     margin-bottom: 3px;
+     margin-top: 3px;
      padding: 98px 10 65px 10;
      background: url(../img/back_1a.jpg);
      background-position: center;
